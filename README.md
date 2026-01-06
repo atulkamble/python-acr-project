@@ -197,17 +197,3 @@ http://20.204.208.81:5000/
 * Use private endpoints for enterprise security
 
 ---
-
-## 📁 Suggested GitHub Repo Name
-
-```text
-azure-acr-python-app
-```
-
-or
-
-```text
-cloudnautic-azure-acr-aci-python
-```
-
----
